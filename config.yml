@@ -1,0 +1,11 @@
+# Vertical velocity applied during double jump
+jump-velocity: 1.0
+
+# Cooldown between double jumps in ticks (20 ticks = 1 second)
+cooldown-ticks: 60
+
+# Particle effect to play on double jump (e.g., CLOUD, FLAME, HEART)
+particle-effect: CLOUD
+
+# Sound effect to play on double jump (e.g., ENTITY_ENDER_DRAGON_FLAP, ENTITY_PLAYER_LEVELUP)
+sound-effect: ENTITY_ENDER_DRAGON_FLAP
