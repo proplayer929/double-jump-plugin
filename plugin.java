@@ -1,4 +1,4 @@
-package com.example.doublejumpboost;
+package dev.proplayer919.doublejumpboost;
 
 import com.sk89q.worldguard.WorldGuard;
 import com.sk89q.worldguard.protection.flags.BooleanFlag;
