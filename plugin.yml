@@ -1,0 +1,17 @@
+name: DoubleJumpBoost
+version: 1.0
+main: dev.proplayer919.doublejumpboost.DoubleJumpBoostPlugin
+api-version: 1.21.5
+depend: [WorldGuard]
+description: Adds a double-jump-boost flag to WorldGuard regions, allowing players with permission to perform a double jump with a boost.
+commands:
+  doublejumpboost:
+    description: Manages the DoubleJumpBoost plugin
+    usage: /<command> reload
+permissions:
+  doublejumpboost.use:
+    description: Allows players to use the double jump feature in enabled regions
+    default: op
+  doublejumpboost.reload:
+    description: Allows players to reload the plugin configuration
+    default: op
